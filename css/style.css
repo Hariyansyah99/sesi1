@@ -1,0 +1,23 @@
+.navbar ul{
+    background-color: blue;
+    height: 30px;
+    overflow: hidden;
+    list-style-type: none;
+   
+}
+.navbar li{
+    display: inline;
+    
+    
+}
+
+.navbar li a{
+    color: #FFFF;
+    text-decoration: none;
+    text-align: center;
+    
+    
+    
+    margin-right: 50px;
+
+}
